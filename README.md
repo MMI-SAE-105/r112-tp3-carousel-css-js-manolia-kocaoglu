@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Kocaoglu
+- prénom : Manolia
+- URL Netlify : fluffy-kheer-2ac6c8.netlify.app 
 
 # Travail
 
